@@ -1,0 +1,4 @@
+Flask
+pandas
+plotly
+gunicorn # Important for deployment on most platforms
